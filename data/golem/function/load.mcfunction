@@ -1,0 +1,1 @@
+tellraw @a {"text": "Werdna's craftable golems pack has loaded","color": "dark_green"}
